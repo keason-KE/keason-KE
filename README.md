@@ -18,16 +18,16 @@
 
 ---
 
-## 🧑‍💻 Featured Projects
-- 🔐 [OWASP Juice Shop Walkthrough](https://github.com/yourusername/juice-shop)  
+## 🧑‍💻  Projects
+- 🔐 [OWASP Juice Shop Walkthrough]  
   *Completed the TryHackMe OWASP Juice Shop room — explored common vulnerabilities and mitigation strategies.*
 
-- 🧩 [Network Traffic Analysis Lab](https://github.com/yourusername/network-lab)  
+- 🧩 [Network Traffic Analysis Lab]()  
   *Analyzed packet captures using Wireshark and identified suspicious traffic patterns.*
 
 - 🧾 [Security+ Study Notes](https://quizlet.com/1054067033/security-701-professor-messer-incomplete-flash-cards/?i=4hkzs4&x=1jqt)  
   *My personal notes and practice materials while preparing for the Security+ exam.*
-
+ 
 ---
 
 ## 🌐 Connect with Me
