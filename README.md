@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio | Kobe Eason
+# 🛡️  Portfolio | Kobe Eason
 
 Welcome to my cybersecurity and penetration testing portfolio. This repository showcases hands-on labs, Capture The Flag (CTF) challenges, security tools, and vulnerability assessments that demonstrate my skills in offensive security.
 
