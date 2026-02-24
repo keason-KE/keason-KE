@@ -1,39 +1,28 @@
-# 👋 Hi, I'm Kobe Eason  
+# 🛡️ Cybersecurity Portfolio | Kobe Eason
 
-🎓 I'm a sophomore studying **Cybersecurity**, currently preparing for the **CompTIA Security+ certification**.  
-💻 I’m passionate about protecting systems, analyzing threats, and building my skills through hands-on labs.  
-🧠 I enjoy solving security challenges and continuously learning about the tools and techniques used in the industry.
+Welcome to my cybersecurity and penetration testing portfolio. This repository showcases hands-on labs, Capture The Flag (CTF) challenges, security tools, and vulnerability assessments that demonstrate my skills in offensive security.
 
 ---
 
-## 🧰 Tools & Technologies
-`Linux` `Kali`  `Burp Suite`  `Nmap` `Git` `TryHackMe` `OWASP Juice Shop`
+## 👨‍💻 About Me
+
+- 🎓 Cybersecurity Student @ Maryville University
+- 🖥️ Data Center Technician Intern @ World Wide Technology (WWT)
+- 🧠 Passionate about Ethical Hacking, Offensive Security, and Threat Analysis
+
+I actively build and test my skills through labs, virtual environments, and real-world scenarios to better understand how attackers think — and how to defend against them.
 
 ---
 
-## 🚀 Current Focus
-- Studying for the **Security+ (SY0-701)** exam  
-- Practicing web application and network security labs  
-- Building a portfolio of security projects and write-ups  
+## 🧪 Labs & Writeups
 
----
+This section contains detailed walkthroughs of labs and CTF challenges.
 
-## 🧑‍💻  Projects
-- 🔐 [OWASP Juice Shop Walkthrough]  
-  *Completed the TryHackMe OWASP Juice Shop room — explored common vulnerabilities and mitigation strategies.*
+| Platform      | Description |
+|--------------|------------|
+| TryHackMe    | Guided labs covering networking, enumeration, and exploitation |
+| Hack The Box | Realistic machines focused on offensive security techniques |
+| CTFs         | Practical challenges involving web, network, and privilege escalation |
 
-- 🧩 [Network Traffic Analysis Lab]()  
-  *Analyzed packet captures using Wireshark and identified suspicious traffic patterns.*
+📂 Location:
 
-- 🧾 [Security+ Study Notes](https://quizlet.com/1054067033/security-701-professor-messer-incomplete-flash-cards/?i=4hkzs4&x=1jqt)  
-  *My personal notes and practice materials while preparing for the Security+ exam.*
- 
----
-
-## 🌐 Connect with Me
-[💼 LinkedIn](www.linkedin.com/in/kobe-eason-65a306335)  
-[🧩 TryHackMe](https://tryhackme.com/p/keason2306)  
-
----
-
-> 💬 “Cybersecurity isn’t just about defense — it’s about understanding how things break so you can build them stronger.”
