@@ -1,15 +1,22 @@
-# 🛡️  Portfolio | Kobe Eason
+# Kobe Eason
 
-Welcome to my cybersecurity and penetration testing portfolio. This repository showcases hands-on labs, Capture The Flag (CTF) challenges, security tools, and vulnerability assessments that demonstrate my skills in offensive security.
+Cybersecurity student at Maryville University of St. Louis, graduating in April 2028. I am seeking cybersecurity internships across security operations, cyber risk, and identity and access management.
 
----
+I currently work as an L1 Security Analyst with Maryville University MSSP and a Data Center Technician Intern at World Wide Technology. My experience includes Wazuh security monitoring, CIS Critical Security Controls audits, phishing simulations, and infrastructure troubleshooting.
 
-## 👨‍💻 About Me
+## Project focus
 
-- 🎓 Cybersecurity Student @ Maryville University
-- 🖥️ Data Center Technician Intern @ World Wide Technology (WWT)
-- 🧠 Passionate about Ethical Hacking, Offensive Security, and Threat Analysis
+**Aegis — Identity and access control for AI agents.** I defined security requirements and directed AI-assisted development of a gateway focused on role-based access control, JWT authentication, scoped permissions, and human approvals.
 
-I actively build and test my skills through labs, virtual environments, and real-world scenarios to better understand how attackers think — and how to defend against them.
+**Mimir — Vulnerability management and compliance.** I defined requirements and directed AI-assisted development of a platform connecting network scan findings, CVE information, asset context, and questionnaire responses.
 
----
+For these projects, my role is requirements definition and direction of AI-assisted development. The implementation was AI-assisted; I do not represent it as independently hand-coded software.
+
+## Explore my work
+
+- [Cybersecurity portfolio](https://github.com/keason-KE/Cybersecurity-Portfolio): lab demonstrations, reports, and project context.
+- [LinkedIn](https://www.linkedin.com/in/kobe-eason-65a306335/)
+
+## Tools and foundations
+
+Wazuh · Nmap · Wireshark · PhishingBox · Kali Linux · Windows · VirtualBox · Bash · CIS Critical Security Controls
