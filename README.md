@@ -6,9 +6,9 @@ I currently work as an L1 Security Analyst with Maryville University MSSP and a 
 
 ## Project focus
 
-**Aegis — Identity and access control for AI agents.** I defined security requirements and directed AI-assisted development of a gateway focused on role-based access control, JWT authentication, scoped permissions, and human approvals.
+**[Aegis — Identity and access control for AI agents](https://github.com/keason-KE/aegis).** I defined security requirements and directed AI-assisted development of a gateway focused on role-based access control, JWT authentication, scoped permissions, and human approvals.
 
-**Mimir — Vulnerability management and compliance.** I defined requirements and directed AI-assisted development of a platform connecting network scan findings, CVE information, asset context, and questionnaire responses.
+**[Mimir — Vulnerability management and compliance](https://github.com/keason-KE/mimir).** I defined requirements and directed AI-assisted development of a platform connecting network scan findings, CVE information, asset context, and questionnaire responses.
 
 For these projects, my role is requirements definition and direction of AI-assisted development. The implementation was AI-assisted; I do not represent it as independently hand-coded software.
 
